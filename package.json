@@ -1,0 +1,9 @@
+{
+  "name": "inkflow",
+  "private": true,
+  "workspaces": [
+    "common",
+    "frontend",
+    "backend"
+  ]
+}
